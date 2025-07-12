@@ -1,6 +1,6 @@
 # Proyecto Implementación de Técnicas de Aprendizaje Automático para la Conducción Autónoma en Entornos Simulados
 
-El presente proyecto tiene como propósito la creación y análisis de un sistema de conducción autónoma, evaluando su comportamiento en distintos entornos simulados a través del uso de inteligencia artificial aplicada al control de agentes. Concretamente, se busca comparar la efectividad de tres enfoques de aprendizaje distintos:
+El presente proyecto,desarrollado como trabajo final del ciclo formativo de grado superior en Desarrollo de Aplicaciones Multiplataforma, tiene como propósito la creación y análisis de un sistema de conducción autónoma, evaluando su comportamiento en distintos entornos simulados a través del uso de inteligencia artificial aplicada al control de agentes. Concretamente, se busca comparar la efectividad de tres enfoques de aprendizaje distintos:
 
 1. Q-Learning  
 2. Neat  
