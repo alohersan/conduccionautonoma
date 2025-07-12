@@ -1,0 +1,2 @@
+# NEAT
+En este proyecto, NEAT se aplicó a un simulador personalizado ambientado en el circuito urbano de Fórmula 1 de Marina Bay (Singapur), donde el agente, representado por un coche, debía recorrer el circuito sin colisionar, utilizando como entradas los datos de sensores tipo radar, que controlaban el giro y avance del vehículo. El entrenamiento se realizó a lo largo de múltiples generaciones, utilizando como métrica de evaluación la distancia total recorrida sin accidente.
