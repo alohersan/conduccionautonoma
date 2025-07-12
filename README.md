@@ -4,4 +4,4 @@ El presente proyecto tiene como propósito la creación y análisis de un sistem
 2. Neat
 3. Behavioral Cloning(no subido a github debido a su tamaño)
 <p>Se puede encontrar en su totalidad en: https://drive.google.com/drive/folders/14GEI-f0YP8Sfty2B2_TTFna4v9nWXkPv?usp=sharing</p>
-<p>*Alondra Hernández, Mayo 2025*</p>
+*Alondra Hernández, Mayo 2025*
